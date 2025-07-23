@@ -1,0 +1,60 @@
+Date : 2025-07-19 20:43:08
+Directory : c:\Users\Carmine Squillace\Desktop\sito\mis
+Total : 27 files,  12702 codes, 273 comments, 1278 blanks, all 14253 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| CSS      |          2 |     11,349 |         51 |        953 |     12,353 |
+| PHP      |         24 |      1,337 |        222 |        325 |      1,884 |
+| HTML     |          1 |         16 |          0 |          0 |         16 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                   | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                      |         27 |     12,702 |        273 |      1,278 |     14,253 |
+| . (Files)                                                                              |          7 |        580 |         51 |        120 |        751 |
+| boundary                                                                               |          2 |         42 |          3 |         12 |         57 |
+| control                                                                                |          1 |        120 |         61 |         49 |        230 |
+| database                                                                               |          7 |        335 |         83 |         78 |        496 |
+| entity                                                                                 |          6 |        228 |         24 |         61 |        313 |
+| site                                                                                   |          2 |         48 |          0 |          5 |         53 |
+| style                                                                                  |          2 |     11,349 |         51 |        953 |     12,353 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                               | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Carmine Squillace\Desktop\sito\mis\biglietti.php                              | PHP      |         91 |          6 |         18 |        115 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\boundary\ClienteNonRegistrato.php          | PHP      |         21 |          2 |          6 |         29 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\boundary\ClienteRegistrato.php             | PHP      |         21 |          1 |          6 |         28 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\buy.php                                    | PHP      |        179 |         11 |         34 |        224 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\control\GestioneVenditeBigliettiNetbus.php | PHP      |        120 |         61 |         49 |        230 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\database\AutobusDAO.php                    | PHP      |         26 |          6 |          6 |         38 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\database\BigliettoDAO.php                  | PHP      |         92 |         24 |         21 |        137 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\database\CittaDAO.php                      | PHP      |         26 |          6 |          8 |         40 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\database\ClienteDAO.php                    | PHP      |         83 |         24 |         23 |        130 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\database\CorsaDAO.php                      | PHP      |         53 |         11 |          8 |         72 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\database\DBManager.php                     | PHP      |         30 |          6 |          6 |         42 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\database\TrattaDAO.php                     | PHP      |         25 |          6 |          6 |         37 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\entity\EntityAutobus.php                   | PHP      |         22 |          2 |          6 |         30 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\entity\EntityBiglietto.php                 | PHP      |         54 |          6 |         14 |         74 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\entity\EntityCitta.php                     | PHP      |         22 |          2 |          6 |         30 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\entity\EntityCliente.php                   | PHP      |         38 |          4 |         10 |         52 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\entity\EntityCorsa.php                     | PHP      |         62 |          7 |         16 |         85 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\entity\EntityTratta.php                    | PHP      |         30 |          3 |          9 |         42 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\index.php                                  | PHP      |        126 |          8 |         19 |        153 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\login.php                                  | PHP      |         74 |          8 |         20 |        102 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\logout.php                                 | PHP      |          5 |          0 |          1 |          6 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\print.php                                  | PHP      |         15 |          4 |          8 |         27 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\register.php                               | PHP      |         90 |         14 |         20 |        124 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\site\footer.html                           | HTML     |         16 |          0 |          0 |         16 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\site\header.php                            | PHP      |         32 |          0 |          5 |         37 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\style\bootstrap.css                        | CSS      |     11,120 |         24 |        899 |     12,043 |
+| c:\Users\Carmine Squillace\Desktop\sito\mis\style\style.css                            | CSS      |        229 |         27 |         54 |        310 |
+| Total                                                                                  |          |     12,702 |        273 |      1,278 |     14,253 |
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
