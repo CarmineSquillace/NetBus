@@ -20,7 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `netbus`
 --
-
+CREATE DATABASE IF NOT EXISTS `netbus`;
+USE `netbus`;
 -- --------------------------------------------------------
 
 --
@@ -262,7 +263,7 @@ ALTER TABLE `biglietti`
 --
 ALTER TABLE `corse`
   ADD CONSTRAINT `FK_CORSE_AUTOBUS` FOREIGN KEY (`Autobus`) REFERENCES `autobus` (`ID`) ON DELETE CASCADE ON UPDATE CASCADE,
-  ADD CONSTRAINT `FK_CORSE_TRATTE` FOREIGN KEY (`Tratta`) REFERENCES `tratte` (`ID`) ON DELETE CASCADE ON UPDATE CASCADE;
+  ADD CONSTRAINT `FK_CORSE_TRATTE` FOREIGN KEY (`Tratta`) REFERENCES `tratte` (`ID`) ON DELETE CASCADE ON UPDATE CASCADE,
   ADD CONSTRAINT `UQ_TRATTA_DATA` UNIQUE (`Tratta`, `Data`);
   
 --
